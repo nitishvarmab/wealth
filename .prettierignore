@@ -1,7 +1,7 @@
 # List files or directories below to ignore them when running prettier
 # More information: https://prettier.io/docs/en/ignore.html
 # feature-1 implemented
-# feature-2 implemented changes
+# feature-2 implemented changes1
 
 **/staticresources/**
 .localdevserver
