@@ -4,8 +4,8 @@ jobs:
   first-job:
     runs-on: ubuntu-latest
     steps:
-        -name: print greeting
-         run: echo "Hello hello mfs"
-        -name: print goodbye
-         run: echo "goodbye mfs"
+        - name: print greeting
+          run: echo "Hello hello mfs"
+        - name: print goodbye
+          run: echo "goodbye mfs"
   
