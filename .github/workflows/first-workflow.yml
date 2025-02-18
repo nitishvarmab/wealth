@@ -5,7 +5,7 @@ jobs:
       runs-on: ubuntu-latest  
       steps:
           - name: print good morning
-            run: echo "Good Morning"
+            run: echo "Good Morning 1"
           
           - name: print good evening
-            run: echo "Good Evening"
+            run: echo "Good Evening 1"
